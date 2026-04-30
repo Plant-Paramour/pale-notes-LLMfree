@@ -11,7 +11,7 @@
 在这个游戏中，没有固定的剧本。你的每一个选择，都会被 AI 实时演绎，编织出独一无二的故事。
 
 ### 🎮 在线体验 | Play Online
-**[点击此处直接开始游戏 | Start Game](https://luyu14039.github.io/pale-notes/)**
+**[点击此处直接开始游戏 | Start Game](https://plant-paramour.github.io/pale-notes-LLMfree/)**
 
 ---
 
