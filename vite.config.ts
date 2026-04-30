@@ -10,5 +10,5 @@ export default defineConfig({
       '@': path.resolve(__dirname, './src'),
     },
   },
-  base: '/pale-notes/', // For GitHub Pages
+  base: '/pale-notes-LLMfree/', // For GitHub Pages
 })
